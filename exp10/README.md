@@ -47,5 +47,4 @@ App runs on `http://localhost:5175`
 ### Backend - Spring Boot Running
 ![Backend Running](https://raw.githubusercontent.com/kavisha1902/Full_stack_2_Kavisha_Sharma/master/Full-Stack-Lab-main/exp10/screenshots/backend-running.png)
 
-### Frontend - WebSocket Chat UI
-![Chat Frontend](https://raw.githubusercontent.com/kavisha1902/Full_stack_2_Kavisha_Sharma/master/Full-Stack-Lab-main/exp10/screenshots/chat-frontend.png)
+
